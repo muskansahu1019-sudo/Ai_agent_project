@@ -1,1 +1,1 @@
-# Ai_agent_project
+AI Career Assistant is an AI-powered web application designed to help students and job seekers make informed career decisions. The platform provides personalized career guidance, generates learning roadmaps, predicts placement opportunities, creates interview questions, and analyzes resumes against job descriptions using AI. Built with Streamlit and Hugging Face LLMs, it offers an interactive and user-friendly solution for career planning and professional development.
